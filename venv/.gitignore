@@ -1,6 +1,4 @@
 # Django #
-venv
-pyvenv.cfg
 *.log
 *.pot
 *.pyc
